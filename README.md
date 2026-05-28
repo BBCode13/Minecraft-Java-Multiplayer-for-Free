@@ -32,3 +32,13 @@ After doing so, click OK at the bottom of the app and you may close out the app.
 
 **Step 2: Gathering Network Information!**
 
+The first thing we need to do here is open the command prompt.
+You can do this by hitting the window key and r and typing cmd.
+Click enter and it should take you to a command terminal.
+
+<img width="387" height="189" alt="Screenshot 2026-05-28 145041" src="https://github.com/user-attachments/assets/0e0e5a3c-ee1c-44fa-803e-7cf0b362ffcd" />
+
+In the command terminal type ipconfig and hit enter.
+This should bring you your network information
+
+<img width="737" height="615" alt="Screenshot 2026-05-28 145310" src="https://github.com/user-attachments/assets/e3dd21e2-0e5e-4d94-8f0c-22b79a2ab73a" />
