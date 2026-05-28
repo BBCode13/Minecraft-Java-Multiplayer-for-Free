@@ -5,8 +5,30 @@ This repository will help Minecraft Java users access multiplayer for free using
 
 **Windows Firewall Config and Network Information**
 
-Step 1:
+**Step 1: Allow Minecraft through network firewall!**
 
 Open Windows Security and navigate to Firewall and Network Protection
 
 <img width="227" height="162" alt="Screenshot 2026-05-28 143333" src="https://github.com/user-attachments/assets/79fc529d-0039-4f24-8c65-1643812fb32f" />
+
+Next Click Allow and App through firewall
+
+<img width="455" height="594" alt="Screenshot 2026-05-28 143433" src="https://github.com/user-attachments/assets/3c7c3180-9383-4ff6-88e5-d92b52e2ff07" />
+
+Now you have arrived at the Windows Control Panel.
+
+At the top right choose the Change Settings button with the admin icon.
+
+<img width="596" height="127" alt="Screenshot 2026-05-28 143758" src="https://github.com/user-attachments/assets/29c49e17-ad61-4230-819b-c92a913a9542" />
+
+Scroll through the list of programs until you find "javaw" or a program directly related to minecraft. If there are multiple of the same follow steps for all instances.
+
+Next you will want to check all 3 checkboxes around that or those program(s)
+
+<img width="537" height="128" alt="Screenshot 2026-05-28 144323" src="https://github.com/user-attachments/assets/3f6d4638-26e3-40b2-9a97-568dedc61eec" />
+
+After doing so, click OK at the bottom of the app and you may close out the app.
+
+
+**Step 2: Gathering Network Information!**
+
