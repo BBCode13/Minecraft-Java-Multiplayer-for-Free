@@ -42,3 +42,8 @@ In the command terminal type ipconfig and hit enter.
 This should bring you your network information
 
 <img width="737" height="615" alt="Screenshot 2026-05-28 145310" src="https://github.com/user-attachments/assets/e3dd21e2-0e5e-4d94-8f0c-22b79a2ab73a" />
+
+Now look at the small list of numbers on the Default Gateway. It should look something like this: ##.#.#.#.#
+This is your Default Gateway IPv4
+
+Type this into your url bar. This will lead you to your router's webpage. (For Xfinity) you will need to use the Xfinity app. From here on now I will be showing screenshots from AT&T.
