@@ -46,4 +46,4 @@ This should bring you your network information
 Now look at the small list of numbers on the Default Gateway. It should look something like this: ##.#.#.#.#
 This is your Default Gateway IPv4
 
-Type this into your url bar. This will lead you to your router's webpage. (For Xfinity) you will need to use the Xfinity app. From here on now I will be showing screenshots from AT&T.
+Type this into your url bar. This will lead you to your router's webpage. (For Xfinity you will need to use the Xfinity app.) From here on now I will be showing images from AT&T.
