@@ -46,4 +46,26 @@ This should bring you your network information
 Now look at the small list of numbers on the Default Gateway. It should look something like this: ##.#.#.#.#
 This is your Default Gateway IPv4
 
-Type this into your url bar. This will lead you to your router's webpage. (For Xfinity you will need to use the Xfinity app.) From here on now I will be showing images from AT&T.
+Type this into your url bar and wait for the page to load. This will lead you to your router's webpage. (For Xfinity you will need to use the Xfinity app.) From here on now I will be showing images from AT&T.
+
+
+**Step 3: Creating Your Internet Port!**
+
+(During this step a password or access code prompt may appear. Just follow the given instructions or research.)
+
+Now that you have entered the webpage look for a tab or an area dedicated to Port Fowarding. On AT&T this would be under Firewall then NAT/Gaming.
+On the Xfinity mobile app this would be under Wifi - View Wifi Equipment - Advanced Settings - Port Forwarding.
+
+<img width="946" height="608" alt="Screenshot 2026-07-02 170403" src="https://github.com/user-attachments/assets/cdf5df60-0c81-4fd9-b1f0-bf1e1d569adf" />
+
+Here look for an area or button labeled "Manual Setup" or "Custom Services" etc. Click on it.
+
+Now you can create your own port. When setting up your port forwarding it will ask you for your "Base Port" and/or "Global Port Range", "Service Name", and "Protocol".
+
+<img width="621" height="306" alt="image" src="https://github.com/user-attachments/assets/2029dd38-2450-425b-b42c-813f66ae6f60" />
+
+Your base port is the port number you will use in Minecraft. The port range is the same but is only used if you want multiple port numbers for Minecraft. (I recommend using one port number as shown in the image above.) 
+
+Now you can complete, finish, or add your Port Forwarding port to your router by clicking on those buttons.
+
+<img width="727" height="727" alt="2026-05-01_21 38 14" src="https://github.com/user-attachments/assets/830c6393-7961-44f3-99e5-f7a7bf6f130f" />
