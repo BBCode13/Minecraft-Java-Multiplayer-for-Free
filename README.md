@@ -68,4 +68,19 @@ Your base port is the port number you will use in Minecraft. The port range is t
 
 Now you can complete, finish, or add your Port Forwarding port to your router by clicking on those buttons.
 
-<img width="727" height="727" alt="2026-05-01_21 38 14" src="https://github.com/user-attachments/assets/830c6393-7961-44f3-99e5-f7a7bf6f130f" />
+<img width="621" height="306" alt="Screenshot 2026-07-02 171620" src="https://github.com/user-attachments/assets/d43d1254-2351-479e-b3ff-bf4ae22242e6" />
+
+Now that you have added your port return to the previous page and check for a place called something like "Application Host Entry". Select the service you just created in the "Service" dropdown and select your computer in the "Needed by Device" dropdown.
+Now hit complete, finish, or add.
+
+<img width="618" height="152" alt="Screenshot 2026-07-02 174506" src="https://github.com/user-attachments/assets/b8449c9a-ebfa-416a-8a4c-929169c6479f" />
+
+You should see it pop up under an area called "Hosted Applications"
+
+**Step 4: Usage, Testing, and Completion**
+
+You can now open Minecraft Java and open your world to LAN with the dedicated port number that you created. For players to join they must navigate to the Multiplayer section and hit "Direct Connection". Then they should type your public IPv4 address in the input box with a colon then your port number. Your public IPv4 Address can be found in the following website: https://www.whatismyip.com/
+
+<img width="810" height="667" alt="Screenshot 2026-07-02 175532" src="https://github.com/user-attachments/assets/306cc6c3-5bc4-4e95-bcbb-d7296d7968d5" />
+
+To test if your port is working go to this website: https://canyouseeme.org/
