@@ -64,7 +64,7 @@ Now you can create your own port. When setting up your port forwarding it will a
 
 <img width="621" height="306" alt="image" src="https://github.com/user-attachments/assets/2029dd38-2450-425b-b42c-813f66ae6f60" />
 
-Your base port is the port number you will use in Minecraft. The port range is the same but is only used if you want multiple port numbers for Minecraft. (I recommend using one port number as shown in the image above.) 
+Your base port is the port number you will use in Minecraft. The port range is the same but is only used if you want multiple port numbers for Minecraft. (I recommend using one port number as shown in the image above.) The Service Name is the name of your port forwarding service (feel free to name it anything you would like). The protocol is the type of prtocol the service is using. (I recommend using TCP/UDP).
 
 Now you can complete, finish, or add your Port Forwarding port to your router by clicking on those buttons.
 
